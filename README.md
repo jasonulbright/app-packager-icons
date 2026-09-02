@@ -27,6 +27,10 @@ icons/           icon files, named <packagername>.ico or <packagername>.png
 manifest.json    pack version, minimum AppPackager version, and the icon index
 ```
 
+The release asset `icon-pack.zip` is flat: `manifest.json` and every icon file sit at the
+zip root, because the zip extracts directly into `Packagers\Icons\` and `Add-StageIcon`
+looks for `Packagers\Icons\<packagername>.ico|png` with no intervening folder.
+
 ## manifest.json
 
 ```json
@@ -34,7 +38,7 @@ manifest.json    pack version, minimum AppPackager version, and the icon index
   "PackVersion": "1.0.0",
   "MinAppVersion": "1.5.0.0",
   "Icons": [
-    { "File": "icons/7zip.ico", "Packager": "7zip" }
+    { "File": "7zip.ico", "Packager": "7zip" }
   ]
 }
 ```
@@ -43,7 +47,7 @@ manifest.json    pack version, minimum AppPackager version, and the icon index
 | --- | --- |
 | `PackVersion` | Version of the pack itself. Shown in the Options window status line. |
 | `MinAppVersion` | Oldest AppPackager version the pack targets. A newer value than the running app produces a warning, not a refusal. |
-| `Icons` | One entry per icon file. `File` is the path inside the zip; `Packager` is the packager name the icon binds to. |
+| `Icons` | One entry per icon file. `File` is the file name inside the zip; `Packager` is the packager name the icon binds to. |
 
 ## Contributing an icon
 
