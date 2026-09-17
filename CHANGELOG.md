@@ -1,5 +1,10 @@
 # Changelog
 
+## v2026.09.17.0002
+
+### Pack
+- Replace 8 icons with higher-quality vendor artwork
+
 ## v2026.09.17.0001
 
 ### Pack
