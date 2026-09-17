@@ -1,5 +1,5 @@
 {
-  "PackVersion": "2026.09.17.0001",
+  "PackVersion": "2026.09.17.0002",
   "MinAppVersion": "1.5.0.0",
   "Icons": [
     {
@@ -917,8 +917,8 @@
     {
       "File": "parallelsclient.png",
       "Packager": "parallelsclient",
-      "SourceKind": "MsiIconTable",
-      "PixelSize": 256
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "pathcopycopy.png",
@@ -1157,7 +1157,7 @@
     {
       "File": "salesforcecli.png",
       "Packager": "salesforcecli",
-      "SourceKind": "SystemGeneric",
+      "SourceKind": "VendorAsset",
       "PixelSize": 256
     },
     {
@@ -1229,14 +1229,14 @@
     {
       "File": "slack.png",
       "Packager": "slack",
-      "SourceKind": "InnerExe",
-      "PixelSize": 256
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "smartty.png",
       "Packager": "smartty",
-      "SourceKind": "MsiIconTable",
-      "PixelSize": 256
+      "SourceKind": "VendorAsset",
+      "PixelSize": 348
     },
     {
       "File": "smathstudio.png",
@@ -1271,8 +1271,8 @@
     {
       "File": "sqlserver2022express.png",
       "Packager": "sqlserver2022express",
-      "SourceKind": "GitHubAvatar",
-      "PixelSize": 420
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "ssms.png",
@@ -1643,20 +1643,20 @@
     {
       "File": "yubicoauthenticator.png",
       "Packager": "yubicoauthenticator",
-      "SourceKind": "MsiIconTable",
-      "PixelSize": 256
+      "SourceKind": "VendorAsset",
+      "PixelSize": 300
     },
     {
       "File": "yubicopivtool.png",
       "Packager": "yubicopivtool",
-      "SourceKind": "SystemGeneric",
-      "PixelSize": 256
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "yubikeymanagercli.png",
       "Packager": "yubikeymanagercli",
-      "SourceKind": "SystemGeneric",
-      "PixelSize": 256
+      "SourceKind": "VendorAsset",
+      "PixelSize": 300
     },
     {
       "File": "zeal.png",
