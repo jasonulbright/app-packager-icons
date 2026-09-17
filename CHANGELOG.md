@@ -1,5 +1,12 @@
 # Changelog
 
+## v2026.09.17.0001
+
+### Pack
+- Raise 59 undersized icons to 256 pixels or larger
+- Add GitHub Desktop and Beyond Compare 5 icons
+- Adopt date-based pack versions: year.month.day.build
+
 ## v1.2.0
 
 ### Pack
