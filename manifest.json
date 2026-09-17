@@ -1,12 +1,12 @@
 {
-  "PackVersion": "1.2.0",
+  "PackVersion": "2026.09.17.0001",
   "MinAppVersion": "1.5.0.0",
   "Icons": [
     {
       "File": "7zip.png",
       "Packager": "7zip",
-      "SourceKind": "InnerExe",
-      "PixelSize": 48
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "adobereader.png",
@@ -23,8 +23,8 @@
     {
       "File": "aimp.png",
       "Packager": "aimp",
-      "SourceKind": "PeResource",
-      "PixelSize": 64
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "amazondcv.png",
@@ -159,6 +159,12 @@
       "PixelSize": 256
     },
     {
+      "File": "beyondcompare5.png",
+      "Packager": "beyondcompare5",
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
+    },
+    {
       "File": "bitwarden.png",
       "Packager": "bitwarden",
       "SourceKind": "PeResource",
@@ -191,8 +197,8 @@
     {
       "File": "bulkrenameutility.png",
       "Packager": "bulkrenameutility",
-      "SourceKind": "InstalledApp",
-      "PixelSize": 48
+      "SourceKind": "VendorAsset",
+      "PixelSize": 256
     },
     {
       "File": "calibre.png",
@@ -233,8 +239,8 @@
     {
       "File": "chromeremotedesktophost.png",
       "Packager": "chromeremotedesktophost",
-      "SourceKind": "MsiIconTable",
-      "PixelSize": 48
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "citrixworkspace-cr.png",
@@ -251,8 +257,8 @@
     {
       "File": "cloudcompare.png",
       "Packager": "cloudcompare",
-      "SourceKind": "GitHubAvatar",
-      "PixelSize": 248
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "cloudflarewarp.png",
@@ -263,8 +269,8 @@
     {
       "File": "cmake.png",
       "Packager": "cmake",
-      "SourceKind": "MsiIconTable",
-      "PixelSize": 48
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "codemeterruntime.png",
@@ -281,44 +287,44 @@
     {
       "File": "corretto-jdk11-x64.png",
       "Packager": "corretto-jdk11-x64",
-      "SourceKind": "InnerExe",
-      "PixelSize": 48
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "corretto-jdk11-x86.png",
       "Packager": "corretto-jdk11-x86",
-      "SourceKind": "InnerExe",
-      "PixelSize": 48
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "corretto-jdk17.png",
       "Packager": "corretto-jdk17",
-      "SourceKind": "InnerExe",
-      "PixelSize": 48
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "corretto-jdk21.png",
       "Packager": "corretto-jdk21",
-      "SourceKind": "InnerExe",
-      "PixelSize": 48
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "corretto-jdk25.png",
       "Packager": "corretto-jdk25",
-      "SourceKind": "InnerExe",
-      "PixelSize": 48
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "corretto-jdk8-x64.png",
       "Packager": "corretto-jdk8-x64",
-      "SourceKind": "InnerExe",
-      "PixelSize": 48
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "corretto-jdk8-x86.png",
       "Packager": "corretto-jdk8-x86",
-      "SourceKind": "InnerExe",
-      "PixelSize": 48
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "cpuz.png",
@@ -341,8 +347,8 @@
     {
       "File": "cutepdfwriter.png",
       "Packager": "cutepdfwriter",
-      "SourceKind": "InstalledApp",
-      "PixelSize": 128
+      "SourceKind": "VendorAsset",
+      "PixelSize": 256
     },
     {
       "File": "cyberduck.png",
@@ -353,8 +359,8 @@
     {
       "File": "datagrip.png",
       "Packager": "datagrip",
-      "SourceKind": "PeResource",
-      "PixelSize": 48
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "daxstudio.png",
@@ -365,8 +371,8 @@
     {
       "File": "dbbrowsersqlite.png",
       "Packager": "dbbrowsersqlite",
-      "SourceKind": "MsiIconTable",
-      "PixelSize": 128
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "dbeaver.png",
@@ -425,8 +431,8 @@
     {
       "File": "draftable.png",
       "Packager": "draftable",
-      "SourceKind": "MsiIconTable",
-      "PixelSize": 128
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "drawio.png",
@@ -467,8 +473,8 @@
     {
       "File": "freecad.png",
       "Packager": "freecad",
-      "SourceKind": "PeResource",
-      "PixelSize": 128
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "gcpw.png",
@@ -507,16 +513,22 @@
       "PixelSize": 256
     },
     {
+      "File": "githubdesktop.png",
+      "Packager": "githubdesktop",
+      "SourceKind": "VendorAsset",
+      "PixelSize": 256
+    },
+    {
       "File": "go.png",
       "Packager": "go",
-      "SourceKind": "MsiIconTable",
-      "PixelSize": 48
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "goland.png",
       "Packager": "goland",
-      "SourceKind": "PeResource",
-      "PixelSize": 48
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "googledrive.png",
@@ -581,8 +593,8 @@
     {
       "File": "iapdesktop.png",
       "Packager": "iapdesktop",
-      "SourceKind": "MsiIconTable",
-      "PixelSize": 64
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "imageglass.png",
@@ -599,14 +611,14 @@
     {
       "File": "intunedebugtoolkit.png",
       "Packager": "intunedebugtoolkit",
-      "SourceKind": "MsiIconTablePe",
-      "PixelSize": 226
+      "SourceKind": "VendorAsset",
+      "PixelSize": 460
     },
     {
       "File": "irfanview.png",
       "Packager": "irfanview",
-      "SourceKind": "InnerExe",
-      "PixelSize": 64
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "joplin.png",
@@ -617,8 +629,8 @@
     {
       "File": "kdiff3.png",
       "Packager": "kdiff3",
-      "SourceKind": "PeResource",
-      "PixelSize": 64
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "keepass.png",
@@ -653,8 +665,8 @@
     {
       "File": "liberica-jdk21.png",
       "Packager": "liberica-jdk21",
-      "SourceKind": "MsiIconTable",
-      "PixelSize": 128
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "libreoffice.png",
@@ -666,43 +678,43 @@
       "File": "m365apps-x64.png",
       "Packager": "m365apps-x64",
       "SourceKind": "VendorAsset",
-      "PixelSize": 96
+      "PixelSize": 512
     },
     {
       "File": "m365apps-x86.png",
       "Packager": "m365apps-x86",
       "SourceKind": "VendorAsset",
-      "PixelSize": 96
+      "PixelSize": 512
     },
     {
       "File": "m365project-x64.png",
       "Packager": "m365project-x64",
       "SourceKind": "VendorAsset",
-      "PixelSize": 96
+      "PixelSize": 512
     },
     {
       "File": "m365project-x86.png",
       "Packager": "m365project-x86",
       "SourceKind": "VendorAsset",
-      "PixelSize": 96
+      "PixelSize": 512
     },
     {
       "File": "m365visio-x64.png",
       "Packager": "m365visio-x64",
       "SourceKind": "VendorAsset",
-      "PixelSize": 96
+      "PixelSize": 512
     },
     {
       "File": "m365visio-x86.png",
       "Packager": "m365visio-x86",
       "SourceKind": "VendorAsset",
-      "PixelSize": 96
+      "PixelSize": 512
     },
     {
       "File": "malwarebytes.png",
       "Packager": "malwarebytes",
-      "SourceKind": "PeResource",
-      "PixelSize": 128
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "mariadb-server.png",
@@ -731,20 +743,20 @@
     {
       "File": "msodbcsql18.png",
       "Packager": "msodbcsql18",
-      "SourceKind": "TrueSmall",
-      "PixelSize": 32
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "msoledb.png",
       "Packager": "msoledb",
-      "SourceKind": "TrueSmall",
-      "PixelSize": 32
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "msvcruntimes.png",
       "Packager": "msvcruntimes",
-      "SourceKind": "TrueSmall",
-      "PixelSize": 32
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "musescore.png",
@@ -755,20 +767,20 @@
     {
       "File": "mysqlconnectornet.png",
       "Packager": "mysqlconnectornet",
-      "SourceKind": "TrueSmall",
-      "PixelSize": 32
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "nagstamon.png",
       "Packager": "nagstamon",
-      "SourceKind": "PeResource",
-      "PixelSize": 48
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "naps2.png",
       "Packager": "naps2",
-      "SourceKind": "MsiIconTable",
-      "PixelSize": 128
+      "SourceKind": "VendorAsset",
+      "PixelSize": 256
     },
     {
       "File": "netbird.png",
@@ -875,8 +887,8 @@
     {
       "File": "opera.png",
       "Packager": "opera",
-      "SourceKind": "PeResource",
-      "PixelSize": 48
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "orcaslicer.png",
@@ -912,7 +924,7 @@
       "File": "pathcopycopy.png",
       "Packager": "pathcopycopy",
       "SourceKind": "VendorAsset",
-      "PixelSize": 32
+      "PixelSize": 256
     },
     {
       "File": "pdf24creator.png",
@@ -1037,26 +1049,26 @@
     {
       "File": "pspad.png",
       "Packager": "pspad",
-      "SourceKind": "InstalledApp",
-      "PixelSize": 128
+      "SourceKind": "VendorAsset",
+      "PixelSize": 256
     },
     {
       "File": "putty.png",
       "Packager": "putty",
-      "SourceKind": "MsiIconTable",
-      "PixelSize": 48
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "pwsafe.png",
       "Packager": "pwsafe",
-      "SourceKind": "MsiIconTable",
-      "PixelSize": 48
+      "SourceKind": "VendorAsset",
+      "PixelSize": 256
     },
     {
       "File": "pycharm.png",
       "Packager": "pycharm",
-      "SourceKind": "PeResource",
-      "PixelSize": 48
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "python.png",
@@ -1067,14 +1079,14 @@
     {
       "File": "qgis.png",
       "Packager": "qgis",
-      "SourceKind": "MsiIconTable",
-      "PixelSize": 48
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "qgis-ltr.png",
       "Packager": "qgis-ltr",
-      "SourceKind": "MsiIconTable",
-      "PixelSize": 48
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "r.png",
@@ -1097,8 +1109,8 @@
     {
       "File": "redshiftodbc.png",
       "Packager": "redshiftodbc",
-      "SourceKind": "MsiIconTable",
-      "PixelSize": 225
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "remotedesktopmanager.png",
@@ -1133,14 +1145,14 @@
     {
       "File": "rustdesk.png",
       "Packager": "rustdesk",
-      "SourceKind": "MsiIconTable",
-      "PixelSize": 128
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "rvtools.png",
       "Packager": "rvtools",
-      "SourceKind": "InnerExe",
-      "PixelSize": 32
+      "SourceKind": "VendorAsset",
+      "PixelSize": 256
     },
     {
       "File": "salesforcecli.png",
@@ -1205,8 +1217,8 @@
     {
       "File": "shotcut.png",
       "Packager": "shotcut",
-      "SourceKind": "InstalledApp",
-      "PixelSize": 64
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "simplenote.png",
@@ -1289,14 +1301,14 @@
     {
       "File": "sysinternals.png",
       "Packager": "sysinternals",
-      "SourceKind": "InnerExe",
-      "PixelSize": 128
+      "SourceKind": "VendorAsset",
+      "PixelSize": 280
     },
     {
       "File": "tabulareditor2.png",
       "Packager": "tabulareditor2",
-      "SourceKind": "TrueSmall",
-      "PixelSize": 64
+      "SourceKind": "VendorAsset",
+      "PixelSize": 256
     },
     {
       "File": "tailscale.png",
@@ -1415,8 +1427,8 @@
     {
       "File": "teracopy.png",
       "Packager": "teracopy",
-      "SourceKind": "TrueSmall",
-      "PixelSize": 128
+      "SourceKind": "VendorAsset",
+      "PixelSize": 256
     },
     {
       "File": "thonny.png",
@@ -1433,8 +1445,8 @@
     {
       "File": "tightvnc.png",
       "Packager": "tightvnc",
-      "SourceKind": "TrueSmall",
-      "PixelSize": 32
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "tortoisegit.png",
@@ -1445,8 +1457,8 @@
     {
       "File": "tortoisehg.png",
       "Packager": "tortoisehg",
-      "SourceKind": "InnerExe",
-      "PixelSize": 128
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "tortoisesvn.png",
@@ -1464,7 +1476,7 @@
       "File": "turbovnc.png",
       "Packager": "turbovnc",
       "SourceKind": "VendorAsset",
-      "PixelSize": 128
+      "PixelSize": 256
     },
     {
       "File": "typora.png",
@@ -1493,8 +1505,8 @@
     {
       "File": "vagrant.png",
       "Packager": "vagrant",
-      "SourceKind": "TrueSmall",
-      "PixelSize": 65
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "veracrypt.png",
@@ -1566,7 +1578,7 @@
       "File": "windowsadk.png",
       "Packager": "windowsadk",
       "SourceKind": "VendorAsset",
-      "PixelSize": 128
+      "PixelSize": 512
     },
     {
       "File": "windowsadmincenter.png",
@@ -1578,7 +1590,7 @@
       "File": "windowspeaddon.png",
       "Packager": "windowspeaddon",
       "SourceKind": "VendorAsset",
-      "PixelSize": 128
+      "PixelSize": 512
     },
     {
       "File": "winmerge.png",
