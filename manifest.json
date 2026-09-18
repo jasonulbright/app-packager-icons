@@ -1,5 +1,5 @@
 {
-  "PackVersion": "2026.09.17.0002",
+  "PackVersion": "2026.09.17.0003",
   "MinAppVersion": "1.5.0.0",
   "Icons": [
     {
@@ -75,10 +75,16 @@
       "PixelSize": 256
     },
     {
+      "File": "aspnethostingbundle10.png",
+      "Packager": "aspnethostingbundle10",
+      "SourceKind": "VendorAsset",
+      "PixelSize": 320
+    },
+    {
       "File": "aspnethostingbundle8.png",
       "Packager": "aspnethostingbundle8",
-      "SourceKind": "SystemGeneric",
-      "PixelSize": 256
+      "SourceKind": "VendorAsset",
+      "PixelSize": 320
     },
     {
       "File": "audacity.png",
@@ -89,26 +95,26 @@
     {
       "File": "awscli.png",
       "Packager": "awscli",
-      "SourceKind": "SystemGeneric",
+      "SourceKind": "VendorAsset",
       "PixelSize": 256
     },
     {
       "File": "awssamcli.png",
       "Packager": "awssamcli",
-      "SourceKind": "SystemGeneric",
-      "PixelSize": 256
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "awsssmplugin.png",
       "Packager": "awsssmplugin",
-      "SourceKind": "SystemGeneric",
-      "PixelSize": 256
+      "SourceKind": "VendorAsset",
+      "PixelSize": 400
     },
     {
       "File": "awstools.png",
       "Packager": "awstools",
-      "SourceKind": "SystemGeneric",
-      "PixelSize": 256
+      "SourceKind": "VendorAsset",
+      "PixelSize": 460
     },
     {
       "File": "awsvpnclient.png",
@@ -125,20 +131,20 @@
     {
       "File": "azurecli.png",
       "Packager": "azurecli",
-      "SourceKind": "SystemGeneric",
-      "PixelSize": 256
+      "SourceKind": "VendorAsset",
+      "PixelSize": 400
     },
     {
       "File": "azurefunctionscore.png",
       "Packager": "azurefunctionscore",
-      "SourceKind": "SystemGeneric",
+      "SourceKind": "VendorAsset",
       "PixelSize": 256
     },
     {
       "File": "azurepowershell.png",
       "Packager": "azurepowershell",
-      "SourceKind": "SystemGeneric",
-      "PixelSize": 256
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "azurestorageexplorer.png",
@@ -413,20 +419,20 @@
     {
       "File": "dotnet10both.png",
       "Packager": "dotnet10both",
-      "SourceKind": "SystemGeneric",
-      "PixelSize": 256
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "dotnet8.png",
       "Packager": "dotnet8",
-      "SourceKind": "SystemGeneric",
-      "PixelSize": 256
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "dotnet9x64.png",
       "Packager": "dotnet9x64",
-      "SourceKind": "SystemGeneric",
-      "PixelSize": 256
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "draftable.png",
@@ -509,7 +515,7 @@
     {
       "File": "githubcli.png",
       "Packager": "githubcli",
-      "SourceKind": "SystemGeneric",
+      "SourceKind": "VendorAsset",
       "PixelSize": 256
     },
     {
@@ -1205,8 +1211,8 @@
     {
       "File": "sharepointonlinemanagementshell.png",
       "Packager": "sharepointonlinemanagementshell",
-      "SourceKind": "SystemGeneric",
-      "PixelSize": 256
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "sharex.png",
@@ -1255,12 +1261,6 @@
       "Packager": "softerraldapbrowser",
       "SourceKind": "MsiIconTablePe",
       "PixelSize": 256
-    },
-    {
-      "File": "specexec-mitigations.png",
-      "Packager": "specexec-mitigations",
-      "SourceKind": "GitHubAvatar",
-      "PixelSize": 420
     },
     {
       "File": "spectrapdf.png",
@@ -1578,7 +1578,7 @@
       "File": "windowsadk.png",
       "Packager": "windowsadk",
       "SourceKind": "VendorAsset",
-      "PixelSize": 512
+      "PixelSize": 256
     },
     {
       "File": "windowsadmincenter.png",
@@ -1590,7 +1590,7 @@
       "File": "windowspeaddon.png",
       "Packager": "windowspeaddon",
       "SourceKind": "VendorAsset",
-      "PixelSize": 512
+      "PixelSize": 498
     },
     {
       "File": "winmerge.png",
