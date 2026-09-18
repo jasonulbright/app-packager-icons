@@ -1,5 +1,13 @@
 # Changelog
 
+## v2026.09.17.0003
+
+### Pack
+- Replace the console placeholder icon on 13 packages with vendor artwork
+- Refresh the Tabular Editor 2 icon
+- Add ASP.NET Core Hosting Bundle 10 icon
+- Remove the Speculative Execution Mitigations icon
+
 ## v2026.09.17.0002
 
 ### Pack
