@@ -1,5 +1,5 @@
 {
-  "PackVersion": "2026.09.17.0003",
+  "PackVersion": "2026.09.21.0004",
   "MinAppVersion": "1.5.0.0",
   "Icons": [
     {
@@ -252,6 +252,24 @@
       "File": "citrixworkspace-cr.png",
       "Packager": "citrixworkspace-cr",
       "SourceKind": "PeResource",
+      "PixelSize": 256
+    },
+    {
+      "File": "citrixworkspace-ltsr-arm64.png",
+      "Packager": "citrixworkspace-ltsr-arm64",
+      "SourceKind": "VendorAsset",
+      "PixelSize": 256
+    },
+    {
+      "File": "citrixworkspace-ltsr-x64.png",
+      "Packager": "citrixworkspace-ltsr-x64",
+      "SourceKind": "VendorAsset",
+      "PixelSize": 256
+    },
+    {
+      "File": "citrixworkspace-ltsr-x86.png",
+      "Packager": "citrixworkspace-ltsr-x86",
+      "SourceKind": "VendorAsset",
       "PixelSize": 256
     },
     {
@@ -789,6 +807,12 @@
       "PixelSize": 256
     },
     {
+      "File": "netbeans.png",
+      "Packager": "netbeans",
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
+    },
+    {
       "File": "netbird.png",
       "Packager": "netbird",
       "SourceKind": "MsiIconTable",
@@ -1303,6 +1327,24 @@
       "Packager": "sysinternals",
       "SourceKind": "VendorAsset",
       "PixelSize": 280
+    },
+    {
+      "File": "tableaudesktop.png",
+      "Packager": "tableaudesktop",
+      "SourceKind": "VendorAsset",
+      "PixelSize": 256
+    },
+    {
+      "File": "tableauprep.png",
+      "Packager": "tableauprep",
+      "SourceKind": "VendorAsset",
+      "PixelSize": 256
+    },
+    {
+      "File": "tableaureader.png",
+      "Packager": "tableaureader",
+      "SourceKind": "VendorAsset",
+      "PixelSize": 256
     },
     {
       "File": "tabulareditor2.png",
