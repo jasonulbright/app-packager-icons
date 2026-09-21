@@ -1,5 +1,10 @@
 # Changelog
 
+## v2026.09.21.0004
+
+### Pack
+- Add icons for 7 new packagers: Citrix Workspace LTSR, Tableau, NetBeans
+
 ## v2026.09.17.0003
 
 ### Pack
