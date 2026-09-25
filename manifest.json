@@ -1,5 +1,5 @@
 {
-  "PackVersion": "2026.09.25.0005",
+  "PackVersion": "2026.09.25.0006",
   "MinAppVersion": "1.5.0.0",
   "Icons": [
     {
@@ -787,6 +787,78 @@
       "Packager": "msoledb",
       "SourceKind": "VendorAsset",
       "PixelSize": 512
+    },
+    {
+      "File": "ms-openjdk17-exe.png",
+      "Packager": "ms-openjdk17-exe",
+      "SourceKind": "VendorAsset",
+      "PixelSize": 387
+    },
+    {
+      "File": "ms-openjdk17-exe-user.png",
+      "Packager": "ms-openjdk17-exe-user",
+      "SourceKind": "VendorAsset",
+      "PixelSize": 387
+    },
+    {
+      "File": "ms-openjdk17-msi.png",
+      "Packager": "ms-openjdk17-msi",
+      "SourceKind": "VendorAsset",
+      "PixelSize": 387
+    },
+    {
+      "File": "ms-openjdk17-msi-user.png",
+      "Packager": "ms-openjdk17-msi-user",
+      "SourceKind": "VendorAsset",
+      "PixelSize": 387
+    },
+    {
+      "File": "ms-openjdk21-exe.png",
+      "Packager": "ms-openjdk21-exe",
+      "SourceKind": "VendorAsset",
+      "PixelSize": 387
+    },
+    {
+      "File": "ms-openjdk21-exe-user.png",
+      "Packager": "ms-openjdk21-exe-user",
+      "SourceKind": "VendorAsset",
+      "PixelSize": 387
+    },
+    {
+      "File": "ms-openjdk21-msi.png",
+      "Packager": "ms-openjdk21-msi",
+      "SourceKind": "VendorAsset",
+      "PixelSize": 387
+    },
+    {
+      "File": "ms-openjdk21-msi-user.png",
+      "Packager": "ms-openjdk21-msi-user",
+      "SourceKind": "VendorAsset",
+      "PixelSize": 387
+    },
+    {
+      "File": "ms-openjdk25-exe.png",
+      "Packager": "ms-openjdk25-exe",
+      "SourceKind": "VendorAsset",
+      "PixelSize": 387
+    },
+    {
+      "File": "ms-openjdk25-exe-user.png",
+      "Packager": "ms-openjdk25-exe-user",
+      "SourceKind": "VendorAsset",
+      "PixelSize": 387
+    },
+    {
+      "File": "ms-openjdk25-msi.png",
+      "Packager": "ms-openjdk25-msi",
+      "SourceKind": "VendorAsset",
+      "PixelSize": 387
+    },
+    {
+      "File": "ms-openjdk25-msi-user.png",
+      "Packager": "ms-openjdk25-msi-user",
+      "SourceKind": "VendorAsset",
+      "PixelSize": 387
     },
     {
       "File": "msvcruntimes.png",
