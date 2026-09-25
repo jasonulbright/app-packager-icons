@@ -1,5 +1,10 @@
 # Changelog
 
+## v2026.09.25.0006
+
+### Pack
+- Add icons for 12 new packagers: Microsoft Build of OpenJDK 17, 21 and 25 (MSI and EXE, per machine and per user)
+
 ## v2026.09.25.0005
 
 ### Pack
