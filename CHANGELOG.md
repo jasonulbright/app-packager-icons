@@ -1,5 +1,10 @@
 # Changelog
 
+## v2026.09.25.0005
+
+### Pack
+- Add icons for 3 new packagers: AppPackager Suite, Jabra Direct, Signing Suite
+
 ## v2026.09.21.0004
 
 ### Pack
