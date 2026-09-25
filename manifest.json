@@ -1,5 +1,5 @@
 {
-  "PackVersion": "2026.09.21.0004",
+  "PackVersion": "2026.09.25.0005",
   "MinAppVersion": "1.5.0.0",
   "Icons": [
     {
@@ -61,6 +61,12 @@
       "Packager": "anydesk",
       "SourceKind": "PeResource",
       "PixelSize": 256
+    },
+    {
+      "File": "apppackagersuite.png",
+      "Packager": "apppackagersuite",
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
     },
     {
       "File": "arduinoide.png",
@@ -643,6 +649,12 @@
       "Packager": "irfanview",
       "SourceKind": "VendorAsset",
       "PixelSize": 512
+    },
+    {
+      "File": "jabradirect.png",
+      "Packager": "jabradirect",
+      "SourceKind": "VendorAsset",
+      "PixelSize": 256
     },
     {
       "File": "joplin.png",
@@ -1249,6 +1261,12 @@
       "Packager": "shotcut",
       "SourceKind": "VendorAsset",
       "PixelSize": 512
+    },
+    {
+      "File": "signingsuite.png",
+      "Packager": "signingsuite",
+      "SourceKind": "PeResource",
+      "PixelSize": 256
     },
     {
       "File": "simplenote.png",
