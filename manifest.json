@@ -1,5 +1,5 @@
 {
-  "PackVersion": "2026.09.25.0006",
+  "PackVersion": "2026.09.29.0007",
   "MinAppVersion": "1.5.0.0",
   "Icons": [
     {
@@ -867,6 +867,18 @@
       "PixelSize": 512
     },
     {
+      "File": "msvcruntimesx64.png",
+      "Packager": "msvcruntimesx64",
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
+    },
+    {
+      "File": "msvcruntimesx86.png",
+      "Packager": "msvcruntimesx86",
+      "SourceKind": "VendorAsset",
+      "PixelSize": 512
+    },
+    {
       "File": "musescore.png",
       "Packager": "musescore",
       "SourceKind": "MsiIconTable",
@@ -1255,6 +1267,12 @@
       "Packager": "rstudio",
       "SourceKind": "InstalledApp",
       "PixelSize": 256
+    },
+    {
+      "File": "rtools.png",
+      "Packager": "rtools",
+      "SourceKind": "GitHubAvatar",
+      "PixelSize": 460
     },
     {
       "File": "rustdesk.png",
