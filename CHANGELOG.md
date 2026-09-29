@@ -1,5 +1,10 @@
 # Changelog
 
+## v2026.09.29.0008
+
+### Pack
+- Add an icon for 1 new packager: Slido
+
 ## v2026.09.29.0007
 
 ### Pack
