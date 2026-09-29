@@ -1,5 +1,10 @@
 # Changelog
 
+## v2026.09.29.0007
+
+### Pack
+- Add icons for 3 new packagers: Visual C++ v14 Redistributable x64 and x86, Rtools
+
 ## v2026.09.25.0006
 
 ### Pack
