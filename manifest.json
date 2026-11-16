@@ -1,5 +1,5 @@
 {
-  "PackVersion": "2026.09.29.0008",
+  "PackVersion": "2026.11.16.0009",
   "MinAppVersion": "1.5.0.0",
   "Icons": [
     {
@@ -1487,7 +1487,7 @@
     {
       "File": "teamviewer.png",
       "Packager": "teamviewer",
-      "SourceKind": "MsiIconTable",
+      "SourceKind": "PeResource",
       "PixelSize": 256
     },
     {
