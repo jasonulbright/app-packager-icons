@@ -1,5 +1,10 @@
 # Changelog
 
+## v2026.11.16.0012
+
+### Pack
+- Add icons for 4 packagers: Anypoint Studio, VMware Tools, Visual Studio 2026 and Visual Studio 2026 Community (supplied by the owner)
+
 ## v2026.11.16.0011
 
 ### Pack
