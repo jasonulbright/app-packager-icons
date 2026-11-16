@@ -1,5 +1,10 @@
 # Changelog
 
+## v2026.11.16.0009
+
+### Pack
+- Replace the icon of TeamViewer: the blurry upscaled image is replaced with the sharp icon of TeamViewer Host
+
 ## v2026.09.29.0008
 
 ### Pack
