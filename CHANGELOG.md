@@ -1,5 +1,10 @@
 # Changelog
 
+## v2026.11.16.0010
+
+### Pack
+- Add icons for 5 packagers: .NET 9 x86, .NET 11 x64, ASP.NET 9 and 11 Hosting Bundle, PowerShell 7 LTS (the icon of the same product family)
+
 ## v2026.11.16.0009
 
 ### Pack
