@@ -1,5 +1,10 @@
 # Changelog
 
+## v2026.11.16.0011
+
+### Pack
+- Add icons for 3 packagers: FileZilla, Foxit PDF Reader, WizTree (the icon of the installer, or the vendor's own logo; the WizTree logo is padded to a square)
+
 ## v2026.11.16.0010
 
 ### Pack
