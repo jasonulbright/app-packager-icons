@@ -1,5 +1,10 @@
 # Changelog
 
+## v2026.11.18.0015
+
+### Pack
+- Add the icon for App Installer (WinGet) (the icon in the App Installer package)
+
 ## v2026.11.18.0014
 
 ### Pack
