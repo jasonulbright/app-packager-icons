@@ -1,5 +1,10 @@
 # Changelog
 
+## v2026.11.18.0014
+
+### Pack
+- Add the icon for PowerShell 7 (Devolutions) (the icon in the MSI installer)
+
 ## v2026.11.18.0013
 
 ### Pack

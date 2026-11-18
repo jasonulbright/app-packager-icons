@@ -1,5 +1,5 @@
 {
-  "PackVersion": "2026.11.18.0013",
+  "PackVersion": "2026.11.18.0014",
   "MinAppVersion": "1.5.0.0",
   "Icons": [
     {
@@ -432,6 +432,12 @@
       "File": "dellcommandupdate.png",
       "Packager": "dellcommandupdate",
       "SourceKind": "InstalledApp",
+      "PixelSize": 256
+    },
+    {
+      "File": "devolutionspowershell.png",
+      "Packager": "devolutionspowershell",
+      "SourceKind": "MsiIconTable",
       "PixelSize": 256
     },
     {
