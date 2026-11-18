@@ -1,5 +1,5 @@
 {
-  "PackVersion": "2026.11.16.0012",
+  "PackVersion": "2026.11.18.0013",
   "MinAppVersion": "1.5.0.0",
   "Icons": [
     {
@@ -204,6 +204,12 @@
       "File": "brave.png",
       "Packager": "brave",
       "SourceKind": "InnerExe",
+      "PixelSize": 256
+    },
+    {
+      "File": "bruno.png",
+      "Packager": "bruno",
+      "SourceKind": "MsiIconTable",
       "PixelSize": 256
     },
     {

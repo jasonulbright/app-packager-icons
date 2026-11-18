@@ -1,5 +1,10 @@
 # Changelog
 
+## v2026.11.18.0013
+
+### Pack
+- Add the icon for Bruno (the icon in the MSI installer)
+
 ## v2026.11.16.0012
 
 ### Pack
