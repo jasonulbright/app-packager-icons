@@ -1,5 +1,10 @@
 # Changelog
 
+## v2026.11.19.0016
+
+### Pack
+- Add the icon for PowerShell 7 (MSIX) (the icon in the PowerShell package)
+
 ## v2026.11.18.0015
 
 ### Pack
