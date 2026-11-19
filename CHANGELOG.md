@@ -1,5 +1,10 @@
 # Changelog
 
+## v2026.11.19.0017
+
+### Pack
+- Add the icon for Power BI Desktop (optimized for Power BI Report Server) (the icon in its installer, with the RS badge)
+
 ## v2026.11.19.0016
 
 ### Pack
